@@ -1,4 +1,5 @@
-# thinBASIC GitHub project template
+# thinBASIC GitHub Project Template 2018
+
 This is the official thinBasic GitHub project template.
 Please use this project for your new thinBasic projects at GitHub.
 
