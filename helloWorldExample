@@ -1,1 +1,12 @@
 
+'---Load Console Module
+Uses "Console"
+
+'---Print the magic words
+PrintL "Hello World from ThinBASIC!"
+PrintL         
+printl 
+PrintL "Press a key to end program"
+
+'---Wait for a key press
+WaitKey
